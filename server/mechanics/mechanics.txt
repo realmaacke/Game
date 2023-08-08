@@ -1,0 +1,23 @@
+
+player - {
+        
+    - Level system
+        - Max lvl = ?
+        - Min = 1
+        - figure out how much xp per lvl? (algorithm)
+
+    - Class system
+        - warr
+        - mage
+        - hunter
+
+    - Item system
+        - Inventory
+        - Bank
+        - Some kind of auction house
+
+}
+
+- Economy
+    - Universall money
+
