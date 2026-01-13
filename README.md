@@ -5,3 +5,11 @@
 - loads ui from external file
 
 ![preview](assets/preview.png)
+
+
+## How to use
+
+
+````
+npx server .
+````
