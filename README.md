@@ -9,6 +9,7 @@
 ## Example layout used in picture
 
 ```
+// ./layout.json
 {
     "grid": { "cols": 12, "rows": 8 },
     "elements": [
